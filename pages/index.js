@@ -1,3 +1,4 @@
+// Updated landing page for J Heavy Hauling LLC with Tailwind CSS import
 import '@/styles/globals.css';
 
 export default function Home() {
