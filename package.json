@@ -17,7 +17,7 @@
     "tailwindcss": "^3.3.2",
     "typescript": "^5.0.4"
     "@types/react": "^18.2.41",
-"@types/node": "^20.6.0"
+    "@types/node": "^20.6.0"
 
   }
 }
